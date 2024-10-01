@@ -12,6 +12,8 @@
   text-decoration: none;
   user-select: none;
   -webkit-user-drag: none;
+  color: aliceblue;
+  font-size: 4rem;
 }
 
 html,
@@ -23,4 +25,5 @@ body {
 
   background-color: black;
   color: white;
+
 }
